@@ -52,6 +52,6 @@ Thuật toán xử lý ảnh và giao diện
     ![image](https://github.com/minhpham02/XLA/assets/90706923/fb2035eb-cdf5-4ef8-840f-0ba0d44ca4f9)
   + Thuật toán OTSU
     Ảnh gốc:
-    ![image](https://github.com/minhpham02/XLA/assets/90706923/231823fb-b476-4bdd-a7c3-af082aa5f3ad)
+   ![depositphotos_651046598-stock-photo-foggy-morning-lake-mountains-autumn](https://github.com/minhpham02/XLA/assets/90706923/73043bcb-3619-4d53-80cb-fb0285bd622e)
     Ảnh sau khi xử lý:
     ![image](https://github.com/minhpham02/XLA/assets/90706923/afa351fd-cd3d-4dee-a415-2b62e2c9d617)
