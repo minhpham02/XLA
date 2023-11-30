@@ -2,8 +2,11 @@
 Thuật toán xử lý ảnh và giao diện
 - Bao gồm 10 thuật toán (biến đổi âm bản, phân ngưỡng, cân bằng lược đồ xám, biến đổi logarit, lọc trung bình, lọc trung vị, lọc trung bình trọng số, toán tử laplacian, toán tử canny, thuật toán OTSU)
 - Giao diện:
+
  ![Screenshot 2023-11-29 202255](https://github.com/minhpham02/XLA/assets/90706923/bc54905f-c852-44ad-9f19-4d54f1a93e9e)
+ 
  ![Screenshot 2023-11-29 204612](https://github.com/minhpham02/XLA/assets/90706923/f5a0cbbc-4f98-4b45-8a0f-1c239d8ff0d3)
+ 
 - Áp dụng cho các thuật toán
   + Biến đổi âm bản
     Ảnh gốc:
