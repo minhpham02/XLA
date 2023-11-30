@@ -10,14 +10,22 @@ Thuật toán xử lý ảnh và giao diện
 - Áp dụng cho các thuật toán
   + Biến đổi âm bản
     Ảnh gốc:
+    
     ![moon](https://github.com/minhpham02/XLA/assets/90706923/418b81b4-9546-49d0-b888-840578c3ac33)
+    
     Ảnh sau khi xử lý:
+    
     ![Screenshot 2023-11-29 205617](https://github.com/minhpham02/XLA/assets/90706923/c30861da-1879-483c-a49f-fcc2570a6035)
+    
   + Phân ngưỡng
     Ảnh gốc:
+    
     ![circle](https://github.com/minhpham02/XLA/assets/90706923/91589bd7-3358-4755-b3d0-ffdaf1cb3c2b)
+    
     Ảnh sau khi xử lý:
+    
     ![image](https://github.com/minhpham02/XLA/assets/90706923/9ca41051-8b20-4a76-85b1-929a0cb33570)
+    
   + Cân bằng lược đồ xám
     Ảnh gốc:
     ![vinh-ha-long](https://github.com/minhpham02/XLA/assets/90706923/0af9db6c-9f9f-4069-9506-0bb7c51080d0)
